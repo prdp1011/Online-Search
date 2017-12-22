@@ -1,0 +1,3 @@
+1. First of install npm
+2. use bower install command in cmd to include libraries 
+3. To start use nodemon or npm start in cmd 
